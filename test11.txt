@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 good job
 What to do
 why not content
+=======
+I am going to Delhi.
+>>>>>>> b4
